@@ -1,0 +1,40 @@
+2021-05-15 22:25:11,690 :INFO : testLoginWithInvalidCredentials :Login with UserName: Admin and Password: 
+2021-05-15 22:25:14,917 :INFO : testLoginWithInvalidCredentials :Password cannot be empty error message displayed on Login Page
+2021-05-15 22:25:14,932 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: admin123
+2021-05-15 22:25:14,932 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: admin123
+2021-05-15 22:25:18,083 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:18,083 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:18,109 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: 
+2021-05-15 22:25:18,109 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: 
+2021-05-15 22:25:18,109 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: 
+2021-05-15 22:25:21,331 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:21,331 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:21,331 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:21,359 :INFO : testLoginWithInvalidCredentials :Login with UserName: Sushil and Password: B
+2021-05-15 22:25:21,359 :INFO : testLoginWithInvalidCredentials :Login with UserName: Sushil and Password: B
+2021-05-15 22:25:21,359 :INFO : testLoginWithInvalidCredentials :Login with UserName: Sushil and Password: B
+2021-05-15 22:25:21,359 :INFO : testLoginWithInvalidCredentials :Login with UserName: Sushil and Password: B
+2021-05-15 22:25:25,645 :INFO : testLoginWithInvalidCredentials :Invalid credentials error message displayed on Login Page
+2021-05-15 22:25:25,645 :INFO : testLoginWithInvalidCredentials :Invalid credentials error message displayed on Login Page
+2021-05-15 22:25:25,645 :INFO : testLoginWithInvalidCredentials :Invalid credentials error message displayed on Login Page
+2021-05-15 22:25:25,645 :INFO : testLoginWithInvalidCredentials :Invalid credentials error message displayed on Login Page
+2021-05-15 22:25:47,446 :INFO : testLoginWithInvalidCredentials :Login with UserName: Admin and Password: 
+2021-05-15 22:25:50,704 :INFO : testLoginWithInvalidCredentials :Password cannot be empty error message displayed on Login Page
+2021-05-15 22:25:50,733 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: admin123
+2021-05-15 22:25:50,733 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: admin123
+2021-05-15 22:25:53,977 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:53,977 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:54,005 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: 
+2021-05-15 22:25:54,005 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: 
+2021-05-15 22:25:54,005 :INFO : testLoginWithInvalidCredentials :Login with UserName:  and Password: 
+2021-05-15 22:25:57,204 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:57,204 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:57,204 :INFO : testLoginWithInvalidCredentials :Username cannot be empty error message displayed on Login Page
+2021-05-15 22:25:57,249 :INFO : testLoginWithInvalidCredentials :Login with UserName: Sushil and Password: B
+2021-05-15 22:25:57,249 :INFO : testLoginWithInvalidCredentials :Login with UserName: Sushil and Password: B
+2021-05-15 22:25:57,249 :INFO : testLoginWithInvalidCredentials :Login with UserName: Sushil and Password: B
+2021-05-15 22:25:57,249 :INFO : testLoginWithInvalidCredentials :Login with UserName: Sushil and Password: B
+2021-05-15 22:26:01,487 :INFO : testLoginWithInvalidCredentials :Invalid credentials error message displayed on Login Page
+2021-05-15 22:26:01,487 :INFO : testLoginWithInvalidCredentials :Invalid credentials error message displayed on Login Page
+2021-05-15 22:26:01,487 :INFO : testLoginWithInvalidCredentials :Invalid credentials error message displayed on Login Page
+2021-05-15 22:26:01,487 :INFO : testLoginWithInvalidCredentials :Invalid credentials error message displayed on Login Page

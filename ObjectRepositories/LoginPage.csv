@@ -1,0 +1,3 @@
+UserNameField,BY_ID,txtUsername
+PasswordField,BY_CSS,input[type='password']
+SignInBtn,BY_XPATH,//input[@value='LOGIN']

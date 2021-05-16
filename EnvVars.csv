@@ -1,0 +1,4 @@
+ChromeDriverPath,D:\\frameworkImplementation\\Resources\\chromedriver.exe
+ApplicationURL,https://opensource-demo.orangehrmlive.com/
+ObjectRepositoryPath,D:\\frameworkImplementation\\ObjectRepositories
+DataFilesPath,D:\\frameworkImplementation\\DataFiles

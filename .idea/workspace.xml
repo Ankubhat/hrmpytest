@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a5808b8-9211-462c-a7b3-ff5b90f36e24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sZEgwYFRfYbKr41HGV2A4EpGIi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\frameworkImplementation\Resources" />
+      <recent name="D:\frameworkImplementation\Reports" />
+      <recent name="D:\frameworkImplementation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_loginFuncWithValidCredential.testLoginFunctionalityWithValidCredentials">
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="frameworkImplementation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OrangeHRMDemoApp_Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OrangeHRMDemoApp_Testcases/conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_loginFuncWithInvalidCredentials.TestLoginFunctionalityWithInvalidCredentials" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="frameworkImplementation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OrangeHRMDemoApp_Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_loginFuncWithInvalidCredentials.TestLoginFunctionalityWithInvalidCredentials&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_loginFuncWithValidCredential.testLoginFunctionalityWithValidCredentials" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="frameworkImplementation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OrangeHRMDemoApp_Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_loginFuncWithValidCredential.testLoginFunctionalityWithValidCredentials&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_loginFuncWithInvalidCredentials.py (1)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="frameworkImplementation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OrangeHRMDemoApp_Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/OrangeHRMDemoApp_Testcases/test_loginFuncWithInvalidCredentials.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_loginFuncWithValidCredential.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="frameworkImplementation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\bhatt_Su\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OrangeHRMDemoApp_Testcases" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/OrangeHRMDemoApp_Testcases/test_loginFuncWithValidCredential.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in test_loginFuncWithInvalidCredentials.py (1)" />
+      <item itemvalue="Python tests.pytest in test_loginFuncWithValidCredential.py" />
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python tests.pytest for test_loginFuncWithValidCredential.testLoginFunctionalityWithValidCredentials" />
+      <item itemvalue="Python tests.pytest for test_loginFuncWithInvalidCredentials.TestLoginFunctionalityWithInvalidCredentials" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_loginFuncWithValidCredential.testLoginFunctionalityWithValidCredentials" />
+        <item itemvalue="Python tests.pytest for test_loginFuncWithInvalidCredentials.TestLoginFunctionalityWithInvalidCredentials" />
+        <item itemvalue="Python.conftest" />
+        <item itemvalue="Python tests.pytest in test_loginFuncWithValidCredential.py" />
+        <item itemvalue="Python tests.pytest in test_loginFuncWithInvalidCredentials.py (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a5808b8-9211-462c-a7b3-ff5b90f36e24" name="Default Changelist" comment="" />
+      <created>1621071825453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621071825453</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621096756454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1621096756454" />
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1621097792770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621097792770" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1621097792770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621097792770" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1621097792769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621097792769" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1621097792770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621097792770" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1621096773228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1621096773228" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OrangeHRMDemoApp_Testcases/conftest.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OrangeHRMDemoApp_Testcases/test_loginFuncWithValidCredential.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OrangeHRMDemoApp_Testcases/test_loginFuncWithValidCredential.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
